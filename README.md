@@ -1,3 +1,3 @@
 # Adventure
 
-A Threejs template.
+A template made to develop 3D web projects.
